@@ -4,4 +4,4 @@ The spectral image analysis of complex analytic systems is usually performed in 
 This is the repository for the Paper published in MDPI journal titled <a href="https://www.mdpi.com/2079-9292/11/16/2611/htm">"Segmentation of Spectral Plant Images Using Generative Adversary Network Techniques"</a>
 
 # Below is the diagram for UNET architecture used in GAN
-<img src="[https://www.mdpi.com/electronics/electronics-11-02611/article_deploy/html/images/electronics-11-02611-g001-550.jpg](https://www.mdpi.com/electronics/electronics-11-02611/article_deploy/html/images/electronics-11-02611-g002-550.jpg)" alt="" align="center">
+<img src="https://www.mdpi.com/electronics/electronics-11-02611/article_deploy/html/images/electronics-11-02611-g001-550.jpg" alt="" align="center">
